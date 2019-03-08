@@ -1,0 +1,50 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.main-text {
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+
+.bg {
+    background-color: #eee;
+    background-size: cover;
+    height: 100%;
+}
+
+.icon-main-text {
+    color: blue;
+    font-size: 85px;
+    padding-top: 5%;
+    padding-left: 42%;
+}
+
+#line {
+    color: white;
+    background: blue;
+    width: 45%;
+    height: 5px;
+}
+
+.title-windows {
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+}
+
+.single-page {
+    padding: 10%;
+    background-color: #eee;
+    background-size: cover;
+    height: 100%;
+}
+

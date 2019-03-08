@@ -1,0 +1,47 @@
+.menu-btn {
+    color: #0080ff;
+    font-size: 3em;
+    padding-left: 30px;
+}
+
+.menu-btn:hover {
+    color: #000080;
+}
+
+.pt-up-main {
+    padding: 35px;
+}
+
+.text-icon {
+    font-size: 21px;
+    padding: 5px;
+    color: #0080ff;
+}
+
+.col-padding {
+    padding: 30px !important;
+}
+
+#img-me {
+    width:50%;
+    height: 50%;
+    border-radius:10%;
+    overflow:hidden;
+    text-align: center;
+}
+
+#img-header {
+    width:20%;
+    height: 10%;
+}
+
+.fas {
+    cursor: pointer !important;
+    color: #0080ff;
+}
+
+#powered-text {
+    color: black;
+    padding-left: 150px !important;
+}
+

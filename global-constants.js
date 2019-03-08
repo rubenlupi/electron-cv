@@ -1,0 +1,1 @@
+exports.windowNames = ['objective', 'experience', 'technology', 'education', 'code', 'team', 'interview', 'hobbies'];
